@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /stages/
+Sitemap: https://hgraphpunks.github.io/sitemap.xml
